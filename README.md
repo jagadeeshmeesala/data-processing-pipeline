@@ -12,3 +12,5 @@ Data Processing Pipeline using AWS Kinesis Data Stream (KDS)
  - Listens to Kinesis Data Stream and processes the data by inserting records into Preceiptation and Temparature dynamo DB tables.
 
 
+![This is an image](https://github.com/jagadeeshmeesala/data-processing-pipeline/blob/d36fd68bde4d71801f1550232e59507ee81a4a6e/image/Data%20Pipeline_architecture.drawio.png)
+
