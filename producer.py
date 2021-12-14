@@ -20,8 +20,8 @@ def create_client(service, region):
     return boto3.client(
         service, 
         region_name=region,
-        aws_access_key_id='AKIAWY6SRLTLTWMYK3PL',
-        aws_secret_access_key='Cg3DHOWXdOxvJ+QKueWUVZfRIoaTCZj45YjT7uuu'
+        aws_access_key_id='XXXX', # replace with actual key
+        aws_secret_access_key='XXXX' # replace with actual key
         # aws_session_token=SESSION_TOKEN
         )
 
